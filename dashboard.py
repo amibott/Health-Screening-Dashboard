@@ -18,7 +18,6 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime, timedelta
-from fpdf import FPDF
 import base64
 from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
