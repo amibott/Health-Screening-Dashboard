@@ -1,0 +1,9 @@
+name,age,gender,scheme_option,diabetic,screening_history
+Amitai,26,Male,OptionA,False,"Flu Vaccine:2024-05-01;HIV Test:2023-01-15"
+John,35,Male,OptionB,True,"HRA:2023-12-01;AI Diabetic Retinopathy Screening:2024-01-10"
+Stephanie,32,Female,OptionC,False,"Pap Smear:2022-03-15"
+Elizabeth,24,Female,OptionA,False,"Flu Vaccine:2024-06-01"
+Thalenta,67,Male,OptionA,False,"Flu Vaccine:2024-06-01"
+Edith,67,Female,OptionA,False,"Flu Vaccine:2024-06-01"
+Joan,55,Female,OptionA,False,"Flu Vaccine:2024-06-01"
+Gerald,73,Male,OptionA,False,"Flu Vaccine:2024-06-01"

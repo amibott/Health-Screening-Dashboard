@@ -1,0 +1,21 @@
+screening,gender,min_age,max_age,refresh_years,importance,diabetic_only
+Pap Smear,Female,21,65,3,5,False
+Cervical Cancer Screening consult,Female,21,65,3,4,False
+HPV PCR Test,Female,21,65,5,4,False
+Prostate-Specific Antigen Test,Male,45,69,1,4,False
+Children’s Immunisations,All,0,5,0,3,False
+HPV Vaccine,Female,9,16,100,4,False
+Children’s Optical Screening,All,5,8,100,3,False
+Infant Hearing Screening,All,0,1,100,4,False
+Retinopathy of prematurity,All,0,1,100,3,False
+Cholesterol Screening,All,20,99,5,4,False
+Mammogram,Female,40,99,2,4,False
+Flu Vaccine,All,18,99,1,2,False
+HIV Test,All,18,99,1,3,False
+GoSmokeFree,All,18,99,1,2,False
+HRA: Wellness Screening,All,18,99,1,4,False
+Weight Management Programme,All,18,99,1,2,False
+Pneumococcal Immunisation,All,65,99,5,4,False
+Bone Densitometry,All,65,99,5,3,False
+Colorectal Cancer Screening,All,50,75,1,5,False
+AI Diabetic Retinopathy Screening,All,12,99,1,5,True
